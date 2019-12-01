@@ -1,4 +1,4 @@
-# generator
+# Generator
 
 Überwachung des Notstromgenerators
 
