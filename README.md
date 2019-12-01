@@ -12,5 +12,5 @@ Genutzte Technologien:
 - Fhem (Hausautomation Controller, https://fhem.de/)
 
 Inhalt:
-/docs: Dokumentation des Projektes
-/src: Code
+- /docs: Dokumentation des Projektes
+- /src: Code
